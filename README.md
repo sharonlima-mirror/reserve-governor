@@ -1,4 +1,4 @@
-
+// QUESTION: Can voting power be manipulated between snapshot and execution?
 
 A hybrid optimistic/pessimistic governance system for the Reserve protocol.
 
